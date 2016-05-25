@@ -2,4 +2,4 @@
 
 ### 效果图
 
-![效果图](https://github.com/jarylan/RecyclerViewEffect/blob/master/app/src/main/res/drawable-xhdpi/recyclerview1.gif)
+![效果图](http://ww2.sinaimg.cn/bmiddle/88070423gw1ep30aw8an7g204d04gkgd.gif)
