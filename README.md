@@ -4,3 +4,4 @@
 
 ![1](https://github.com/jarylan/RecyclerViewEffect/blob/master/1.gif)
 ![2](https://github.com/jarylan/RecyclerViewEffect/blob/master/2.gif)
+![3](https://github.com/jarylan/RecyclerViewEffect/blob/master/3.gif)
